@@ -1,6 +1,15 @@
 # Car Selling Ads Site
 
-A car selling ads platform developed using **PHP**, **HTML**, **CSS**, **JavaScript**, and **MySQL**. The site allows users to view and search for cars while admins can manage the car listings through a dedicated admin dashboard.
+A car selling ads platform developed using **PHP**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **JQuery**, and **MySQL**. The site allows users to view and search for cars while admins can manage the car listings through a dedicated admin dashboard.
+
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=#F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## Features
 
